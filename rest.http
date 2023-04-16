@@ -1,0 +1,15 @@
+
+@url= http://localhost:8000/api/v1
+
+POST {{url}}/candiateform/candidate
+Content-type:application/json
+
+{  
+"fname":"hshs",
+"lname":"hshs",
+"email":"er@gmail.com",
+"phonenumber":"4544",
+"address":"24/323 forest raod",
+"skill":"html, css , hhhh",
+
+}
